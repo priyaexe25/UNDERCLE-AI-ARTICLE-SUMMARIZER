@@ -4,9 +4,10 @@ UNDERCLE is an AI Article Summarizer Chrome Extension, powered by Google Gemini,
 ## ✨ Features
 - 📄 **One-Click Summarization** – Summarize any webpage instantly.
 - 🧠 **AI-Powered Insights** – Uses Google's Gemini model for human-like understanding.
-- ⚡ **Fast & Lightweight** – Built with Vanilla JavaScript for speed.
+- ⚡ **Fast & copy summary** – Built with  JavaScript and can keep a copy of summary
 - 🎯 **Focused Output** – Get bullet points, condensed overviews, or short abstracts.
 - 🌙 **Minimal UI** – Elegant popup with a distraction-free reading experience.
+  
 
 ---
 
